@@ -1,7 +1,7 @@
 **Necrosis API Sample**
 
 ----
-This repository has files for the whiteflycount API. 
+This repository has files for the necrosis detect API. 
 The API is python based using the Django Rest Framework
 
 

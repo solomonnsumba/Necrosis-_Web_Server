@@ -1,6 +1,6 @@
 cycler==0.10.0
 decorator==4.2.1
-Django==1.11.9
+Django==1.11.28
 djangorestframework==3.10.1
 matplotlib==2.1.2
 networkx==2.1
